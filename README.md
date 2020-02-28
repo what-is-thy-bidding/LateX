@@ -1,0 +1,2 @@
+# LateX
+All LateX documents
